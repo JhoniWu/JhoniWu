@@ -1,4 +1,5 @@
-# Hi there is Prayer 👋 <br>studying in SiChuan university 
+# Hi there is Prayer 👀👋
+👀I'm a 🤔software🤔 engineering student at 🤖Sichuan University🤖, with a focus on 🤗Java🤗 backend development. And I'm excited to continue learning and growing in this field👀.
 <!--
 **JhoniWu/JhoniWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <br>
 <br>
-<div align="center"> <img src="https://metrics.lecoq.io/JhoniWu?template=classic&isocalendar=1&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&stars=false&stars.limit=4&config.timezone=Asia%2FShanghai"/> </div>
+<div align="center"> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JhoniWu&theme=dark&layout=compact) </div>
